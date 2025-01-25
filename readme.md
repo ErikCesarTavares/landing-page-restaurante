@@ -43,6 +43,14 @@ A página foi projetada para ser uma vitrine **atraente** para restaurantes, com
 
 ---
 
+## 🌍 Acesse o Projeto
+
+Você pode acessar o projeto online clicando no link abaixo:
+
+[👉 Landing Page de Restaurante 🍽️](https://erik-landing-page-restaurante.vercel.app/)
+
+
+---
 ## 🧠 Como Usar
 
 ### Passo 1: Clone o repositório
